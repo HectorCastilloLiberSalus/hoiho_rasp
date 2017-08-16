@@ -1,2 +1,2 @@
 # hoiho_rasp
-Raspberry HOIHO
+Raspberry ROS package for HOIHO Robot
